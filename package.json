@@ -10,8 +10,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
-  "homepage": "https://github.io/nori1026/stuff",
+  "license": "ISC",
+  "homepage":"https://github.io/nori1026/mywebsite",
   "dependencies": {
     "gh-pages": "^1.2.0"
   }
