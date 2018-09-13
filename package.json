@@ -3,15 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  
   "devDependencies": {},
   "scripts": {
-    "test": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://github.io/nori1026/mywebsite",
+  "homepage": "https://github.io/nori1026/mywebsite",
   "dependencies": {
     "gh-pages": "^1.2.0"
   }
